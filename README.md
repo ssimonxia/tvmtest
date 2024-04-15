@@ -1,3 +1,4 @@
+# Note: 
 “unquantized.ipynb” contains codes for the unquantized model as well as the compilation, classification accuracy, and runtime results.
 "quantized.ipynb” contains codes for the quantized model with int8, int16, and int32. It also contains the compilation, classification accuracy, and runtime results.
 “runtime.ipynb” contains well-arranged codes for the quantized model with int8, int16, and int32. It also contains the compilation, classification accuracy, and runtime results. 
